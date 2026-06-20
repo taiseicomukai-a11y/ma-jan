@@ -1,0 +1,1 @@
+{"root":["./src/main.tsx","./src/app/page.tsx","./src/components/handview.tsx","./src/components/tile.tsx","./src/lib/mahjong/hand.ts","./src/lib/mahjong/shanten.ts","./src/lib/mahjong/tiles.ts","./src/lib/mahjong/ukeire.ts","./tests/mahjong.test.ts","./vite.config.ts"],"version":"5.9.3"}
